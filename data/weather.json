@@ -34,7 +34,7 @@
   "clouds": {
     "all": 40
   },
-  "dt": 1773757477,
+  "dt": 1773757713,
   "sys": {
     "country": "NG",
     "sunrise": 1773726644,
@@ -44,5 +44,5 @@
   "id": 2332453,
   "name": "Lagos",
   "cod": 200,
-  "_last_updated_utc": "2026-03-17T14:27:09.458Z"
+  "_last_updated_utc": "2026-03-17T14:31:36.020Z"
 }
