@@ -21,13 +21,13 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.npm
-          key: ${{runner.os}}-node-${{ hashFiles)'package-lock.json') }}
+          key: ${{runner.os}}-node-${{ hashFiles('package-lock.json') }}
       - name: Install Dependencies
         run: npm ci
       - name: Fetch Latest Weather
         env:
           WEATHER_API_KEY: ${{secrets.WEATHER_API_KEY}}
-          WEATHER_CITY: ${{ secret.CITY }}
+          WEATHER_CITY: ${{ secrets.CITY }}
         run: node fetchWeather.js
       - name: Commit weather data if changed
         run: |
