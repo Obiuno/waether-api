@@ -5,10 +5,17 @@
   },
   "weather": [
     {
+<<<<<<< HEAD
       "id": 802,
       "main": "Clouds",
       "description": "scattered clouds",
       "icon": "03d"
+=======
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+>>>>>>> 87955571645ad49ae484824d7ffcf41fe9b025b3
     }
   ],
   "base": "stations",
@@ -27,11 +34,21 @@
     "speed": 4.08,
     "deg": 216,
     "gust": 3.94
+<<<<<<< HEAD
+=======
+  },
+  "rain": {
+    "1h": 0.25
+>>>>>>> 87955571645ad49ae484824d7ffcf41fe9b025b3
   },
   "clouds": {
     "all": 40
   },
+<<<<<<< HEAD
   "dt": 1773757298,
+=======
+  "dt": 1773756900,
+>>>>>>> 87955571645ad49ae484824d7ffcf41fe9b025b3
   "sys": {
     "country": "NG",
     "sunrise": 1773726644,
@@ -41,5 +58,9 @@
   "id": 2332453,
   "name": "Lagos",
   "cod": 200,
+<<<<<<< HEAD
   "_last_updated_utc": "2026-03-17T14:22:53.324Z"
+=======
+  "_last_updated_utc": "2026-03-17T14:19:45.488Z"
+>>>>>>> 87955571645ad49ae484824d7ffcf41fe9b025b3
 }
