@@ -24,14 +24,14 @@
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.23,
-    "deg": 226,
-    "gust": 6.12
+    "speed": 2,
+    "deg": 219,
+    "gust": 5.74
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1785872644,
+  "dt": 1785878251,
   "sys": {
     "country": "NG",
     "sunrise": 1785821962,
@@ -41,5 +41,5 @@
   "id": 2332453,
   "name": "Lagos",
   "cod": 200,
-  "_last_updated_utc": "2026-08-04T19:44:04.411Z"
+  "_last_updated_utc": "2026-08-04T21:17:31.970Z"
 }
