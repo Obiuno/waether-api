@@ -13,33 +13,33 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 24.11,
-    "feels_like": 25.03,
-    "temp_min": 24.11,
-    "temp_max": 24.11,
-    "pressure": 1016,
-    "humidity": 94,
-    "sea_level": 1016,
-    "grnd_level": 1016
+    "temp": 23.57,
+    "feels_like": 24.46,
+    "temp_min": 23.57,
+    "temp_max": 23.57,
+    "pressure": 1013,
+    "humidity": 95,
+    "sea_level": 1013,
+    "grnd_level": 1013
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.33,
-    "deg": 221,
-    "gust": 2.58
+    "speed": 1.15,
+    "deg": 262,
+    "gust": 1.58
   },
   "clouds": {
-    "all": 100
+    "all": 97
   },
-  "dt": 1787523600,
+  "dt": 1787535772,
   "sys": {
     "country": "NG",
-    "sunrise": 1787463547,
-    "sunset": 1787507800
+    "sunrise": 1787549941,
+    "sunset": 1787594175
   },
   "timezone": 3600,
   "id": 2332453,
   "name": "Lagos",
   "cod": 200,
-  "_last_updated_utc": "2026-08-23T22:27:31.345Z"
+  "_last_updated_utc": "2026-08-24T01:42:52.038Z"
 }
