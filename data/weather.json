@@ -5,33 +5,33 @@
   },
   "weather": [
     {
-      "id": 804,
+      "id": 803,
       "main": "Clouds",
-      "description": "overcast clouds",
+      "description": "broken clouds",
       "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 31.6,
-    "feels_like": 35.88,
-    "temp_min": 31.6,
-    "temp_max": 31.6,
-    "pressure": 1014,
-    "humidity": 59,
-    "sea_level": 1014,
-    "grnd_level": 1014
+    "temp": 29.83,
+    "feels_like": 33.95,
+    "temp_min": 29.83,
+    "temp_max": 29.83,
+    "pressure": 1010,
+    "humidity": 67,
+    "sea_level": 1010,
+    "grnd_level": 1010
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.9,
-    "deg": 195,
-    "gust": 1.91
+    "speed": 3.45,
+    "deg": 212,
+    "gust": 3.31
   },
   "clouds": {
-    "all": 90
+    "all": 83
   },
-  "dt": 1788261810,
+  "dt": 1788279777,
   "sys": {
     "country": "NG",
     "sunrise": 1788241083,
@@ -41,5 +41,5 @@
   "id": 2332453,
   "name": "Lagos",
   "cod": 200,
-  "_last_updated_utc": "2026-09-01T11:27:15.355Z"
+  "_last_updated_utc": "2026-09-01T16:23:52.058Z"
 }
